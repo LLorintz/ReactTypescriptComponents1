@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-- git clone https://github.com/LLorintz/ReactTypescriptComponents1.git
+- git clone [a címed ahová a másolatot készítette]
 - cd ReactTypescriptComponents1
 - npm install -y
 - npm run dev
